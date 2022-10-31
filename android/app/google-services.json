@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "801448990462",
+    "project_id": "flesvoiding-app",
+    "storage_bucket": "flesvoiding-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801448990462:android:01f1054c7635597a2477af",
+        "android_client_info": {
+          "package_name": "com.example.flesvoiedingg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "801448990462-uleb4qmgo6gut483evh5ir3h9di6ors0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flesvoiedingg",
+            "certificate_hash": "a99bf029ed972123302bbeba1c8a6ae4dec20884"
+          }
+        },
+        {
+          "client_id": "801448990462-m7fvm1bge342571b3t9veqbvduodcep1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgWxxWZfJp9hZWWspMNzf3e0H3KjBq4TY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "801448990462-m7fvm1bge342571b3t9veqbvduodcep1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
